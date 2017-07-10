@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="c54809b20fb33200be608e8ce1050ebd" sys_domain="global" table="x_139317_device_re_device_request_ticket" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_139317_device_re_device_request_ticket</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-10 10:17:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c54809b20fb33200be608e8ce1050ebd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_139317_device_re_device_request_ticket</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Device Request" source="x_139317_device_re">0785c9320fb33200be608e8ce1050e8f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Device Request">0785c9320fb33200be608e8ce1050e8f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c54809b20fb33200be608e8ce1050ebd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-10 10:17:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

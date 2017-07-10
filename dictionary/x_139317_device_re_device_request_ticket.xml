@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Device Request Ticket" max_length="40" name="x_139317_device_re_device_request_ticket" type="collection">
+        <element label="Title" max_length="255" name="title" type="string_full_utf8"/>
+    </element>
+</database>
